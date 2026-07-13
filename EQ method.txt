@@ -1,0 +1,21 @@
+# === Subweight EQ ===
+# Filter: ON PK Fc 133.67 Hz Gain 5 dB Q 0.7
+# Filter: ON PK Fc 150 Hz Gain 3 dB Q 1
+# Filter: ON LS Fc 60 Hz Gain 4 dB Q 0.8
+
+# === Mud & Harshness Control ===
+# Filter: ON PK Fc 300 Hz Gain -2.5 dB Q 1.2
+# Filter: ON PK Fc 4000 Hz Gain -1.5 dB Q 2
+
+# === Presence & Bite ===
+# Filter: ON PK Fc 5023.77 Hz Gain 2 dB Q 1
+# Filter: ON HS Fc 6266.57 Hz Gain 3 dB Q 0.7
+# quadcast and blue yeti EQ 
+Filter: ON PK Fc 140 Hz Gain -2 dB Q 0.7
+Filter: ON PK Fc 272.33 Hz Gain -2 dB Q 0.7
+Filter: ON PK Fc 304.3 Hz Gain -1 dB Q 0.7
+Filter: ON PK Fc 661.92 Hz Gain -2 dB Q 0.7
+Filter: ON PK Fc 730.05 Hz Gain -2 dB Q 0.7
+Filter: ON HSC Fc 4000 Hz Gain 4 dB Q 0.7
+Filter: ON PK Fc 10000 Hz Gain 1 dB Q 0.7
+Filter: ON HSC Fc 14000 Hz Gain 2.5 dB Q 0.7

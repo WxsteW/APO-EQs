@@ -1,0 +1,13 @@
+Channel: all
+Preamp: 7 dB
+Channel: all
+Filter: ON PK Fc 756.89 Hz Gain 5 dB Q 0.4
+Filter: ON PK Fc 3119.11 Hz Gain 0.5 dB Q 0.4
+Filter: ON PK Fc 756.89 Hz Gain 2 dB Q 1
+Filter: ON PK Fc 3206.49 Hz Gain 6 dB Q 0.4
+Filter: ON PK Fc 6180.59 Hz Gain -2 dB Q 10
+Filter: ON PK Fc 8974.91 Hz Gain 1.3 dB BW Oct 17.9834
+Filter: ON PK Fc 5309.21 Hz Gain -1.8 dB Q 2.2123
+Filter: ON PK Fc 4197.88 Hz Gain 1.4 dB Q 3.2274
+# VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBTd2VldCBWb2NhbAAAAAAAAAAAAAAAAAAAAAAAAAAAAHsULj97FA4/16OwPhWuBz8="
+# VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBTd2VldCBWb2NhbAAAAAAAAAAAAAAAAAAAAAAAAAAAAFyPIj8K10M/cD0qP1yPAj8="

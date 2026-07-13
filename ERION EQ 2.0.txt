@@ -1,0 +1,6 @@
+Filter: ON PK Fc 20000 Hz Gain -7.1 dB Q 0.2222
+Filter: ON HSC Fc 29 Hz Gain 6.5 dB Q 0.7531
+Filter: ON LSC Fc 20000 Hz Gain 2 dB Q 0.3333
+Filter: ON LSC Fc 99999 Hz Gain 3.2 dB Q 0.4444
+Preamp: -2 dB
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBQcmVzZW5jZQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADMzMz89Clc+PQoXP3A9Kj8="

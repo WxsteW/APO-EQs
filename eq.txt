@@ -1,0 +1,5 @@
+Filter: ON PK Fc 7500 Hz Gain 2.45 dB Q 0.3
+Filter: ON PK Fc 10000 Hz Gain 0.7 dB Q 1.2
+Filter: ON HSC Fc 1500 Hz Gain 1 dB Q 0.8
+Filter: ON HPQ Fc 80 Hz Q 0.65
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBEZWZhdWx0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKRwHT8+Cpc+j8L1PgAAAD8="

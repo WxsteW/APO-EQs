@@ -1,0 +1,8 @@
+Filter: ON PK Fc 900 Hz Gain 4.9 dB BW Oct 33.3333
+Filter: ON PK Fc 479.77 Hz Gain -5.6 dB BW Oct 33.3333
+Filter: ON PK Fc 479.77 Hz Gain -5.6 dB BW Oct 33.3333
+Filter: ON HP Fc 76 Hz
+Filter: ON HSC Fc 1145.59 Hz Gain 0 dB Q 0.1
+Filter: ON HSC Fc 29 Hz Gain 6.5 dB Q 0.7531
+Filter: ON HSC Fc 29 Hz Gain 6.5 dB Q 0.7531
+Filter: ON HSC Fc 29 Hz Gain 6.5 dB Q 0.7531
